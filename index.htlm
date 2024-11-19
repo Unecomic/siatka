@@ -33,7 +33,7 @@ main{display: flex;
      <header>
      <p>Turniej</p>
      </header>
-     <img id="mistrzowie" src="https://s7.tvp.pl/images2/7/8/a/uid_78aee98262644cb4b8afd0a460c2e5b0_width_1280_play_0_pos_0_gs_0_height_720_polscy-siatkarze-po-meczu-z-brazylia-fot-pap.jpg" alt="mistrzowie">
+     <img id="mistrzowie" src="image.png" alt="mistrzowie">
     <header id="baner">
      <main>
       <section id="lewa">
