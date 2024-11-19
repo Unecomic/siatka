@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>turniej Mikołajkowy</title>
+    <style> 
+      html, body {
+            height: 100%;
+            margin: 0;}
+            #mistrzowie{
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: -1;
+            color: beige;
+            opacity: 0.6;
+            height: 100%;
+            width: 100%;
+
+        }
+    header{
+    text-align: center;}
+    #lewa{width:60%;
+        color: rgb(28, 211, 171);}
+    #prawa{width:40%;
+        color: rgb(33, 115, 209);}
+main{display: flex;
+    
+    
+}
+      </style>
+    <body>
+     <header>
+     <p>Turniej</p>
+     </header>
+     <img id="mistrzowie" src="https://s7.tvp.pl/images2/7/8/a/uid_78aee98262644cb4b8afd0a460c2e5b0_width_1280_play_0_pos_0_gs_0_height_720_polscy-siatkarze-po-meczu-z-brazylia-fot-pap.jpg" alt="mistrzowie">
+    <header id="baner">
+     <main>
+      <section id="lewa">
+        <h1>Mikołajkowy turniej w siatkówkę</h1>
+        <h2>Data turnieju:19.11.2024</h2>
+      </section>
+      <section id="prawa">
+        <h3>Skład 4Ti</h3>
+        <ul>
+         <li>Antek Klik </li>
+         <li>Marcin kowal </li>
+         <li>Dobrawa Lipiec </li>
+         <li>Mateusz Tryka </li>
+         <li>Wojtek pawluk </li>
+         <li>Daniel Polovko </li>
+        </ul>
+      </section>
+    </body>
+
+        
+    
+</body>
+</html>
